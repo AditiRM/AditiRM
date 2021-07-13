@@ -1,24 +1,3 @@
-
-<!--
-**AditiRM/AditiRM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-
-<h1 align="center">Hi 👋, I'm Aditi</h1>
-<h3 align="center">A passionate developer from India.</h3>
-
-- 🔭 I’m currently working on **Implementation of a User level Multithreading library.**
-
-- 🌱 I’m currently learning **Operating System and Computational Neuroscience Concepts.**
-
-- 💬 Ask me about **software devlopement.**
-
-- 📫 How to reach me **aditimedhane73@gmail.com**
-
-- ⚡ Fun fact **I love discovering new Music:heart:.**
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditirm&show_icons=true&locale=en" alt="aditirm" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=AditiRM&hide_rank=false&show_icons=true&hide_title=false&count_private=true&theme=radical&hide_border=false&include_all_commits=true" width="55%"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AditiRM&theme=radical&layout=compact&langs_count=8&hide_border=false" width="40%">
 
 
